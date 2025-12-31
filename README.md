@@ -1,6 +1,6 @@
 # Bright Data の米国プロキシ
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/locations/united-states) 
+[![Promo](https://github.com/bright-jp/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/locations/united-states) 
 
 ## 概要
 正確なターゲティング、比類のない安定性、迅速なレスポンス時間を提供するよう設計された Bright Data の [US proxies](https://brightdata.jp/locations/united-states) で、シームレスなスクレイピングをご体験ください。米国からWebサイトをスクレイピングし、二度とブロックされないようにしましょう。
@@ -53,7 +53,7 @@
 - [**Hawaii proxies**](https://brightdata.jp/locations/united-states/hawaii)
 - [**Los Angeles proxies**](https://brightdata.jp/locations/united-states/california/los-angeles)
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/locations/united-states) 
+[![Promo](https://github.com/bright-jp/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/locations/united-states) 
 
 ## Bright Data の米国プロキシを始める
 1. **無料トライアルを開始**: クレジットカードは不要です。
